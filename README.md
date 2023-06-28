@@ -4,9 +4,8 @@ Complete your work inside of `code.js`
 
 Follow the instructions provided on my.kenzie.academy for this assignment.
 
-JavaScript in the Wild
-Key:
-b2cfde4baf7b243140c2a6e2d2c9940c
+For buttons control : https://www.amp-what.com/unicode/search/chevron
 
-Secret:
-f79e28e3c54369e8
+font awesome link: https://cdnjs.com/libraries/font-awesome
+
+font awesome eye icon : https://fontawesome.com/search?q=eyes%20sla&o=r
