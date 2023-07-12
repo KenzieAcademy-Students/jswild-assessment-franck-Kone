@@ -1,1 +1,46 @@
 /* Write your CSS Here. */
+body {
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+#header {
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 100px;
+    padding: 0 40px 0 40px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightblue;
+    margin-top: 0;
+}
+
+.find-me {
+    font-size: 20px;
+}
+
+.coords {
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    margin-top: 30px;
+    visibility: hidden;
+}
+
+#map-link {
+    font-size: 25px;
+}
+
+.images-stock {
+    display: none;
+    position: relative;
+    width: 700px;
+    height: 350px;
+    margin-top: 30px;
+}
